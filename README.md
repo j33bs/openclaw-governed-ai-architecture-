@@ -29,5 +29,22 @@ If this feels quiet or restrictive, it is probably working.
 
 ## License
 
-No license is currently attached.  
-Assume attribution and restraint.
+## Usage & Attribution
+
+This repository is provided as a read-only architectural reference.
+
+You are welcome to:
+- read and study the material
+- reference it with attribution
+- discuss or critique the ideas
+
+You may not:
+- copy fragments into prompt packs
+- redistribute modified versions
+- present derivative systems as equivalent
+- commercialise this work without permission
+
+This architecture is intentionally constrained.
+Its safety depends on being understood as a whole.
+
+If you wish to build on this work, contact the author first.
