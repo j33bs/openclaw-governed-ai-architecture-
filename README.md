@@ -27,6 +27,17 @@ Do not inline this into live prompts.
 
 If this feels quiet or restrictive, it is probably working.
 
+## Non-Goals
+
+This repository is not intended to:
+- maximise productivity
+- provide therapeutic advice
+- automate decision-making
+- replace human judgment
+- serve as a generic AI prompt framework
+
+If those are your goals, this architecture is not suitable.
+
 ## License
 
 ## Usage & Attribution
